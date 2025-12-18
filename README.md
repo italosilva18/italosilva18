@@ -64,6 +64,18 @@ Bem-vindo ao meu GitHub! Aqui compartilho projetos voltados para **back-end, fro
 
 ---
 
+## 🚀 Projetos Principais
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [DESTACK Transport](https://github.com/GISC-TECH/destack-transport) | Sistema de gerenciamento de documentos fiscais de transporte (CT-e/MDF-e) com API REST, dashboards analíticos e scraper automatizado | Django, React, PostgreSQL, Redis, Docker |
+| [AUTOMATEC](https://github.com/GISC-TECH/automatec) | Sistema de chamados técnicos com controle de tempo, comissões e multi-perfis de acesso | Django, Bootstrap, PostgreSQL, Redis |
+| [FRABAFARMA](https://github.com/GISC-TECH/frabafarma) | E-commerce farmacêutico com catálogo de produtos, carrinho e integração WhatsApp | Django, PostgreSQL, Bootstrap |
+| [PRAZZO](https://github.com/GISC-TECH/prazzo) | SaaS de gestão de tarefas e prazos para empresas com múltiplas unidades | Go, React, MongoDB, JWT |
+| [GISCTECH](https://github.com/GISC-TECH/gisctech) | Website institucional moderno e responsivo | HTML, CSS, JavaScript |
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=italosilva18&show_icons=true&theme=radical)  
