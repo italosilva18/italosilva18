@@ -37,6 +37,16 @@ Backend developer focused on building high-performance APIs, automation systems,
 
 ---
 
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Destack Transporte**](https://destacktransporte.site) | Transport management system with dashboards, fiscal documents (CT-e/MDF-e), and automation | `Go` `Python` `PostgreSQL` `Docker` |
+| [**FabraFarma**](https://www.fabrafarma.com.br) | Pharmaceutical e-commerce with product catalog, orders, and WhatsApp integration | `Python` `Django` `PostgreSQL` |
+| [**GISC Tech**](https://www.gisctech.com.br) | Technology company institutional website with modern responsive design | `HTML5` `CSS3` `JavaScript` |
+
+---
+
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=italosilva18&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosilva18&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
