@@ -22,6 +22,13 @@ Backend developer focused on building high-performance APIs, automation systems,
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Frameworks**
+
+![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=flat-square&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **Databases**
 
@@ -32,18 +39,28 @@ Backend developer focused on building high-performance APIs, automation systems,
 **Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## Featured Projects
+## Open Source Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Destack Transporte**](https://destacktransporte.site) | Transport management system with dashboards, fiscal documents (CT-e/MDF-e), and automation | `Go` `Python` `PostgreSQL` `Docker` |
-| [**FabraFarma**](https://www.fabrafarma.com.br) | Pharmaceutical e-commerce with product catalog, orders, and WhatsApp integration | `Python` `Django` `PostgreSQL` |
-| [**GISC Tech**](https://www.gisctech.com.br) | Technology company institutional website with modern responsive design | `HTML5` `CSS3` `JavaScript` |
+| [**mypila**](https://github.com/italosilva18/mypila) | Financial management system with multi-tenancy, JWT auth, and complete CI/CD | `Go` `Fiber` `React` `MongoDB` `Docker` |
+| [**barbergo**](https://github.com/italosilva18/barbergo) | Barbershop scheduling app with appointments and client management | `Flutter` `Dart` |
+| [**claude-ai-agents**](https://github.com/italosilva18/claude-ai-agents) | Collection of specialized AI agents for development workflows | `YAML` `AI` |
+
+---
+
+## Featured Work
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Destack Transporte**](https://destacktransporte.site) | Transport management with dashboards and fiscal documents (CT-e/MDF-e) | `Go` `Python` `PostgreSQL` |
+| [**FabraFarma**](https://www.fabrafarma.com.br) | Pharmaceutical e-commerce with WhatsApp integration | `Python` `Django` |
+| [**GISC Tech**](https://www.gisctech.com.br) | Technology company institutional website | `HTML5` `CSS3` `JS` |
 
 ---
 
@@ -57,4 +74,4 @@ Backend developer focused on building high-performance APIs, automation systems,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-s-c/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:italosilva1418@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5571982028632)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://italosilva18.github.io)
